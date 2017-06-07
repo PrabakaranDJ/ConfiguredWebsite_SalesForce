@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SalesForce Suite" duration-ms="81099" started-at="2017-06-07T03:33:18Z" finished-at="2017-06-07T03:34:39Z">
+    <groups>
+    </groups>
+    <test name="Valid WebSite Test" duration-ms="81099" started-at="2017-06-07T03:33:18Z" finished-at="2017-06-07T03:34:39Z">
+      <class name="com.salesforce.testcases.ValidWebTest">
+        <test-method status="PASS" signature="DomainURLTest(java.util.Hashtable)[pri:0, instance:com.salesforce.testcases.ValidWebTest@42d80b78]" name="DomainURLTest" duration-ms="79602" started-at="2017-06-07T09:03:20Z" data-provider="getData" finished-at="2017-06-07T09:04:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=prabakardj@gmail.com, Password=Jaya2012, Runmode=Y}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DomainURLTest -->
+      </class> <!-- com.salesforce.testcases.ValidWebTest -->
+    </test> <!-- Valid WebSite Test -->
+  </suite> <!-- SalesForce Suite -->
+</testng-results>

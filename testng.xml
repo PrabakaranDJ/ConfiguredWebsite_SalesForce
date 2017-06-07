@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SalesForce Suite">
+
+<test name="Valid WebSite Test">
+    <classes>
+        <class name="com.salesforce.testcases.ValidWebTest" ></class>  
+    </classes>
+</test>
+
+</suite>
